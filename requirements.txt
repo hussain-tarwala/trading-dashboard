@@ -1,0 +1,5 @@
+streamlit
+streamlit-autorefresh
+jugaad-data
+pandas
+requests
